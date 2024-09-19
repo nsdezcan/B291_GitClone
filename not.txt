@@ -1,1 +1,4 @@
 git clone komutu GitHup'ta varolan repoyu lokale indirmek için kullanılır
+
+
+remote repoda değişiklik
